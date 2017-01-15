@@ -1,4 +1,6 @@
-# GroupProject2try
+# GroupProject2
+
+try
             {
                 //fill list with database orders and populate combobox with the value
                 packages = PackagesDB.GetPackages();
